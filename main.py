@@ -4,7 +4,7 @@ from openpyxl.styles import Border, Side, Alignment, Font
 from openpyxl.utils import get_column_letter
 import openpyxl
 
-designation = 00865
+designation = 0453
 #добавлено
 salaryfrom = 1
 salaryto = 2
